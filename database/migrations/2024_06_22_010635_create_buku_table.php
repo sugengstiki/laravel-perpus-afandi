@@ -15,7 +15,7 @@ return new class extends Migration
             // ['id_buku','kode_buku','judul','pengarang','kategori'];
             $table->id('id_buku');
             $table->string('kode_buku', 10)->unique();
-            $table->string('judul', 100);
+            $table->string('judul');
             $table->string('pengarang', 100);
             $table->string('kategori', 100);
             $table->timestamps();
