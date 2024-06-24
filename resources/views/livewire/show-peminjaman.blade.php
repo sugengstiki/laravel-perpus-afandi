@@ -1,4 +1,13 @@
 <div>
+
+@if (session('message'))
+    <div class="alert alert-success">
+        {{ session('message') }}
+    </div>
+@endif
+
+@include('livewire.ModalAddPeminjaman')
+
 <table class="table table-bordered table-striped">
         <thead>
             <tr>
