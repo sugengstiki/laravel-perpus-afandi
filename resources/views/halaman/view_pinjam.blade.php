@@ -4,7 +4,8 @@
 @section('isihalaman')
     <h3><center>Data Peminjaman Buku</center><h3>
     <h3><center>Perpustakaan Stiki</center></h3>
-    
+
+    <livewire:add-peminjaman />
     <livewire:show-peminjaman />
 @endsection
 
