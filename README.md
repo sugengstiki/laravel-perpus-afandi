@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<img src="public/gambar/perpustakaan-afandi.png" alt="test">
+
 ## Pepustakaan Afandi
 
 Aplikasi ini adalah aplikasi milik mas Afandi, yang akan digunakan untuk tugas akhir matakuliah pemrograman web lanjut.  Aplikasi ini terdiri dari beberapa data, antara lain buku, anggota, petugas, dan peminjaman.  Masing-masing data pada aplikasi ini akan terkait dengan fungsi menampilkan, tambah, koreksi, dan delete.
