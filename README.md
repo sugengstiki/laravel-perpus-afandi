@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<img src="public/gambar/perpustakaan-afandi.png" alt="test">
+<img src="public/gambar/perpustakaan-afandi.png" alt="test" width="100">
 
 ## Pepustakaan Afandi
 
