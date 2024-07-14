@@ -1,0 +1,14 @@
+$primary1 : #decece;
+$primary2 : white;
+
+body {
+    background-color: $primary1;
+    color: $primary2;
+    p {
+        font-size: 1.2rem;
+        .merah {
+            color: $primary1;
+        }
+    }
+
+}

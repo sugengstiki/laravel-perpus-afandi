@@ -12,3 +12,5 @@ class AnggotaModel extends Model
     protected $primaryKey   = "id_anggota";
     protected $fillable     = ['id_anggota','nim','nama_anggota','prodi','hp'];
 }
+
+// php artisan make:migration create_prodi_table --create=prodis
