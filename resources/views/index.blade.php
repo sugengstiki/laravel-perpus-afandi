@@ -25,5 +25,6 @@
             @include('konten')
             @include('footer')
         </div>
+        @yield('script')
     </body>
 </html>
